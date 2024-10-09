@@ -1,0 +1,4 @@
+hola este es un archivo de pruebas
+esto es solamente para probar el codigo bash dentro de la carpeta.
+Si.
+c
